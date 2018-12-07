@@ -1,0 +1,37 @@
+.Oasis{
+background-color:#62AF6A;
+border:solid 12px;
+text-align:center;
+text-shadow: 3px 3px Green;
+}
+
+.supersonic{
+background-color:#D2691E;
+text-align:center;
+font-family: 'Lora', serif;
+border:solid 12px;
+
+}
+
+.digsy{
+    padding:50px;    
+    margin:50px;
+    justify-content:center;
+    justify-content:space-between;
+    display:flex;
+    align-items: center;
+    background:black;
+    border:solid 30px gray;
+}
+
+.digsy img {
+    width: 20%;   
+}
+
+.maybe{
+   background-color:green;
+   border:solid 19px;
+   text-align:center;
+}
+
+
